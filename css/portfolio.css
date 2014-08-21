@@ -1,4 +1,3 @@
-
 body {
     width: 100%;
     height: 100%;
@@ -135,8 +134,8 @@ a:focus {
     height: auto;
     padding: 100px 0;
     text-align: center;
-    color: #fff;
-    background: url(../img/overview.jpg) no-repeat bottom center scroll;
+    color: #000;
+    background: url(../img/skyline.jpg) no-repeat bottom center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -255,7 +254,7 @@ a:focus {
     height:auto;
     padding: 0;
     color: #fff;
-    background: url(../img/computertable.jpg) no-repeat bottom center scroll;
+    background: url(../img/blossom.jpg) no-repeat bottom center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -271,6 +270,7 @@ a:focus {
 
 #about , #contact{
     color: #000;
+    background: #6BD4FF;
 }
 
 #about{
