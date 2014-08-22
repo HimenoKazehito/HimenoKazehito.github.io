@@ -254,7 +254,7 @@ a:focus {
     width: 100%;
     height:auto;
     padding: 0;
-    color: #fff;
+    color: #F10BA8;
     background: url(../img/blossom.jpg) no-repeat bottom center scroll;
     background-color: #000;
     -webkit-background-size: cover;
@@ -271,12 +271,12 @@ a:focus {
 
 #about , #contact{
     color: #000;
-    background:#5DFAB5;;
+    background: #a7b5e2;;
 }
 
 #about{
     padding:50px 0 100px 0;
-     background: #18bc9c;
+     background: #a7b5e2;
 }
 
 @media(min-width:767px) {
@@ -338,7 +338,7 @@ ul.banner-social-buttons {
 
 footer {
     padding: 50px 0;
-    background: #000;
+    background: #5DFAB5;
 }
 
 footer p {
