@@ -2569,7 +2569,7 @@ select[multiple].input-lg {
 }
 .has-success .input-group-addon {
   color: #3c763d;
-  background-color: #dff0d8;
+  background-color: ;
   border-color: #3c763d;
 }
 .has-success .form-control-feedback {
